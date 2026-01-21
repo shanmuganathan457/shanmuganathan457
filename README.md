@@ -18,6 +18,10 @@
 - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 - ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge)  
+- ![React](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge)  
+- ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)  
+- ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
 
 ### **Design Tools**  
 - ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
